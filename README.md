@@ -19,14 +19,17 @@ Task 5 - Write a python code to display your bucket name. [Code + Output Screens
 
 Task 6- Write a python code to display all file names with extension in your bucket name. [Code + Output Screenshot]
 
-image.png
+![image](https://github.com/user-attachments/assets/cb6ea818-8f0c-4223-9aa6-7cc60014e7ed)
+
 
 Task 7- Write a python code that will take the file extension as the user input and display only those files [Code + Output Screenshot]
 
-image.png
+![image](https://github.com/user-attachments/assets/98aef91f-1a20-4186-a67f-b6dbcf52751e)
+
 
  Task 8- Write a python code that will take the starting alphabets of the file name as the user input and display only those files [Code + Output Screenshot]
 
-image.png
+![image](https://github.com/user-attachments/assets/fb54362a-490e-4b2e-9786-0dd128fbaae9)
+
 
 Task 9 - Write a python code that will take the full file name with extension, if it's found it will display "FILE AVAILABLE" Otherwise "WRONG FILE NAME". [Code + Output Screenshot]
